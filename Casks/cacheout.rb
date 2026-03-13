@@ -2,7 +2,7 @@ cask "cacheout" do
   # NOTE: version and sha256 are filled at release time after notarized DMG is produced.
   # Do NOT `brew install` from this file until a release artifact exists.
   version "2.0.0"
-  sha256 "6de067232a27cdf2d46c20b6b8d5d135b8d2cb21199f13b9fe384ae7abb66942"
+  sha256 "b56f67d7a1e58754c43cb86a5f1b185436e90446ca0074b4859035b55fd38aba"
 
   url "https://github.com/cacheout-app/cacheout/releases/download/v#{version}/Cacheout-#{version}.dmg"
   name "Cacheout"
